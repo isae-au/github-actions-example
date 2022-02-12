@@ -1,2 +1,2 @@
 # github-actions-example
-Github CI/CD Basics
+Github CI/CD Basics Example
